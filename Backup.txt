@@ -1,0 +1,8 @@
+C:\Users\JasonEL\Desktop
+C:\Users\JasonEL\Documents
+C:\Users\JasonEL\Downloads
+D:\Scripts
+D:\Music
+\\192.168.10.10\Users\JasonEL
+\\192.168.10.10\SharedData
+\\myServer.home.local\Data
